@@ -48,3 +48,58 @@ proveedor47=["ferrero","5600000","-10000"]
 proveedor48=["nutresa","80000000","-0"]
 proveedor49=["tecnas","15900000","-30000"]
 proveedor50=["gloria","1000000","-0"]
+
+proveedores=[
+    
+    
+    proveedor1,
+    proveedor2,
+    proveedor3,
+    proveedor4,
+    proveedor5,
+    proveedor6,
+    proveedor7,
+    proveedor8,
+    proveedor9,
+    proveedor10,
+    proveedor11,
+    proveedor12,
+    proveedor13,
+    proveedor14,
+    proveedor15,
+    proveedor16,
+    proveedor17,
+    proveedor18,
+    proveedor19,
+    proveedor20,
+    proveedor21,
+    proveedor22,
+    proveedor23,
+    proveedor25,
+    proveedor26,
+    proveedor27,
+    proveedor28,
+    proveedor29,
+    proveedor30,
+    proveedor31,
+    proveedor32,
+    proveedor33,
+    proveedor34,
+    proveedor35,
+    proveedor36,
+    proveedor37,
+    proveedor38,
+    proveedor39,
+    proveedor40,
+    proveedor41,
+    proveedor42,
+    proveedor43,
+    proveedor44,
+    proveedor45,
+    proveedor46,
+    proveedor47,
+    proveedor48,
+    proveedor49,
+    proveedor50
+    
+]

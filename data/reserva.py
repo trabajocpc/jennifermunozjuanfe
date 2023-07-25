@@ -8,3 +8,16 @@ reserva7=["luz alvarez","2023-05-15","3250000"]
 reserva8=["jhoan mesa","2023-09-14","51200000"]
 reserva9=["carlos mesa","2023-06-16","1200000"]
 reserva10=["camila mazo","2023-03-20","1201000"]
+
+reservas=[
+    reserva1,
+    reserva2,
+    reserva3,
+    reserva4,
+    reserva5,
+    reserva6,
+    reserva7,
+    reserva8,
+    reserva9,
+    reserva10
+]
